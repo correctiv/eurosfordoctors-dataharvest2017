@@ -12,7 +12,8 @@ Have Python 3.5+ and install requirements:
 ## Usage
 
 - Download originals (likely PDF)
-- Convert to proper tables
+- [Setup some tables to track all companies and their data](https://docs.google.com/spreadsheets/d/1fez19N6fzL8SsSSkcthMJOrsaW5DzM2xAJrVXPLaJEo/edit#gid=1262068430)
+- Convert to proper tables, [use this schema](https://docs.google.com/spreadsheets/d/1fez19N6fzL8SsSSkcthMJOrsaW5DzM2xAJrVXPLaJEo/edit#gid=0)
 - Fix table structure
 - Place CSVs in `data/pl/raw_csv`
 - Run `01_load_data.ipynb` to do all of the following:
